@@ -1,5 +1,3 @@
-"use server"
-
 export default function Footer(){
     return(
         <div className="flex justify-between items-center py-10 px-24">
